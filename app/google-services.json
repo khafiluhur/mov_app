@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198871656164",
+    "firebase_url": "https://bwa-mov-aeef9-default-rtdb.firebaseio.com",
+    "project_id": "bwa-mov-aeef9",
+    "storage_bucket": "bwa-mov-aeef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198871656164:android:4742f8f8de0886a927aef1",
+        "android_client_info": {
+          "package_name": "com.albab.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198871656164-b9u2g1rngfa4fbmur12cujho03pb772r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-aFhNgQLuBkwJRFT39sS9lqq7v2cbqGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198871656164-b9u2g1rngfa4fbmur12cujho03pb772r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
